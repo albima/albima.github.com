@@ -7327,13 +7327,12 @@
 }
 .educard .dus1 .nameb{
     bottom: 20px;
-    left: 90px;
+    left: 85px;
     opacity: 1;
     font-weight: 900;
 }
 .educard .dus1 .name{
-    top: 40px;
-    left: 40px;
+    margin: auto;
     opacity: 1;
     font-weight: 900;
 }
@@ -7364,7 +7363,7 @@
 }
 .educard .dus2 .nameb{
   bottom: 20px;
-  left: 90px;
+  left: 85px;
   opacity: 1;
   font-weight: 900;
 }
@@ -7407,7 +7406,7 @@
 }
 .educard .dus3 .nameb{
   bottom: 10px;
-  left: 90px;
+  left: 85px;
   opacity: 1;
   font-weight: 900;
 }
@@ -7444,7 +7443,8 @@
 }
 .educard .dus4 .nameb{
   bottom: 10px;
-  left: 90px;
+  left: 55px;
+  /* margin: auto ; */
   opacity: 1;
   font-weight: 900;
 }
